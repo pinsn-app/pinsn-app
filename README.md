@@ -1,16 +1,16 @@
-## Hi there 👋
+# Pinsn
 
-<!--
-**pinsn-app/pinsn-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pinsn est un copilote de visibilité locale et numérique pour les professionnels.**
 
-Here are some ideas to get you started:
+Pinsn aide les entreprises et professionnels locaux à mieux comprendre
+leur présence en ligne, à suivre les signaux réellement utiles et à
+identifier les actions prioritaires à réaliser au bon moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinsn
+
+- visibilité locale et numérique
+- Indice Pinsn
+- veille ciblée
+- recommandations prioritaires et actionnables
+
+🌐 https://pinsn.fr/
